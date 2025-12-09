@@ -60,3 +60,10 @@ Focus on correlated asset looping (USDC/USDT/DAI) to minimize divergence.
 Liquidity Risk
 
 Monitor on-chain depth to ensure exit liquidity for PT tokens.
+
+
+Protocols Analyzed
+
+Lending: Aave V3, Morpho Blue, Euler, Silo
+
+Yield/Derivatives: Pendle Finance, TermMax, Contango
